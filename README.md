@@ -62,11 +62,12 @@ Use nslookup or dig to check if the DNS server is working:
 
 Name: www.prasad.com
 Address: 192.168.8.101
+
 6. Set DNS Server on Client Machine
 If you're using a client machine, set 192.168.8.101 as the DNS server in /etc/resolv.conf:
 
-     sudo nano /etc/resolv.conf
-     nameserver 192.168.8.101
+         sudo nano /etc/resolv.conf
+         nameserver 192.168.8.101
 
 
 
