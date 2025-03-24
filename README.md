@@ -1,7 +1,5 @@
 # DNS-Server-with-BIND9
 
-# DNS Configuration for prasad.com
-
 This repository contains the configuration files for setting up a **DNS server** using BIND9 for the domain `prasad.com`. The DNS server is set up to handle forward and reverse DNS lookups.
 
 ## Setup Overview
