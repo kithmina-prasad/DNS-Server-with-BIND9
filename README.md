@@ -111,8 +111,6 @@ $TTL 86400
 )
 
 @          IN            NS             ns1.prasad.com.   ; Nameserver for the reverse zone
-
-; Reverse DNS records for the IP 192.168.8.101
 101        IN            PTR            ns1.prasad.com.   ; Reverse DNS for ns1.prasad.com
 101        IN            PTR            www.prasad.com.   ; Reverse DNS for www.prasad.com
 101        IN            PTR            mail.prasad.com.  ; Reverse DNS for mail.prasad.com
